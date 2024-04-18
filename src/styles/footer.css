@@ -1,0 +1,15 @@
+.contenedor-footer{
+   background-color: #000000;
+   display: flex;
+   align-items: flex-start;
+   align-content: center;
+   justify-content: center;
+   height: 40%;
+   
+   
+}
+.contenedor-footer h1{
+   color: white;
+   font-size: 15px;  
+   font-family: Arial, Helvetica, sans-serif;
+}
